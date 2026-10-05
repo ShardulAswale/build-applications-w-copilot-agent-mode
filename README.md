@@ -1,5 +1,11 @@
 # Build applications with GitHub Copilot agent mode
 
+## Repository status
+
+This repository contains GitHub Skills course instructions, workflows and development-environment configuration. The default branch does not contain a completed application.
+
+## Course instructions
+
 <!-- ![](../../actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
 <img src="https://github.com/user-attachments/assets/1b3ea5df-f18d-4ed8-9ae6-f96dc1861818" alt="octofit-tracker" width="300"/>
 
@@ -30,7 +36,7 @@ In this exercise, you will:
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
    <a id="copy-exercise" href="https://github.com/new?template_owner=skills&template_name=build-applications-w-copilot-agent-mode&owner=%40me&name=skills-build-applications-w-copilot-agent-mode&description=Exercise:+Build+my+application+with+Copilot+agent+mode&visibility=public">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-008000" height="25pt"/>
+      <img src="https://img.shields.io/badge/_Copy_Exercise-008000" height="25pt"/>
    </a>
 
 2. In the new tab, most of the fields will automatically fill in for you.
@@ -47,11 +53,11 @@ In this exercise, you will:
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
    <a id="start-exercise">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-AAA" height="25pt"/>
+      <img src="https://img.shields.io/badge/_Start_Exercise-AAA" height="25pt"/>
    </a>
 
 
-> ❕ **Important:** The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
+>  **Important:** The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
 
 ---
 
